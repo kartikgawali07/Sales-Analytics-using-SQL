@@ -1,5 +1,5 @@
 # Sales-Analytics-using-SQL
-🧾 Croma India Sales Data Analysis (SQL Project)
+🧾 Sales Data Analysis (SQL Project)
 📊 Project Overview
 
 This project analyzes Croma India’s FY-2021 sales data to uncover key business insights using SQL.
